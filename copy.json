@@ -1,0 +1,70 @@
+{
+  "brand": "ClinicScope",
+  "tagline": "Clinic automation built on compliance first",
+  "hero_headline": "Clinic automation stops here: you don't know what you can actually automate",
+  "hero_sub": "Map your software + specialty + workflows to see what can be automated and how to stay compliant",
+  "pains": [
+    "Want to automate recalls and Medicare claims but fear breaking regulations — and rules differ by profession",
+    "Generic compliance guides don't answer: can THIS software + THIS profession automate THIS workflow?",
+    "Software features change constantly, consulting is expensive, and there's no single source of truth for your setup"
+  ],
+  "features": [
+    {
+      "title": "Software + Specialty Matching",
+      "desc": "Pick your clinic software and profession — instantly see which workflows can be automated"
+    },
+    {
+      "title": "Workflow Privacy Checklist",
+      "desc": "Recalls, intake, billing, claims: every step shows privacy requirements and how to configure them properly"
+    },
+    {
+      "title": "Professional Rules Lookup",
+      "desc": "PT, psychology, OT, podiatry, speech pathology — each has different rules. We've built audit-ready checklists for each"
+    },
+    {
+      "title": "Real-Time Compliance Updates",
+      "desc": "When software updates or regulations change, your configuration stays current — no repeat consulting needed"
+    }
+  ],
+  "how": [
+    {
+      "step": "Choose Your Software & Specialty",
+      "desc": "Cliniko or Halaxy? Physio or psychology? Pick your setup to get started"
+    },
+    {
+      "step": "Review Compliance Configuration",
+      "desc": "See exactly how to set up automation, which privacy laws apply, and where risks hide"
+    },
+    {
+      "step": "Configure or Let Us Handle It",
+      "desc": "Build it yourself using our checklist, or pay us to set it up — either way, you're compliant and automated"
+    }
+  ],
+  "proof": "Beta testing now open — first users' feedback will shape what we build next",
+  "cta": "Join Beta & Get Your Checklist",
+  "cta_sub": "We'll compile your custom compliance guide based on your software and specialty",
+  "faq": [
+    {
+      "q": "Is this legal advice?",
+      "a": "No. We map software capabilities to privacy principles. For legal questions, consult a licensed advisor."
+    },
+    {
+      "q": "Do you understand our profession's rules?",
+      "a": "Yes. We've built separate guides for physios, psychologists, OTs, podiatrists, and speech pathologists — grounded in their codes of conduct and Privacy Act."
+    },
+    {
+      "q": "Is the beta free?",
+      "a": "Yes. Core checklists stay free forever. Configuration consulting and setup services are paid."
+    }
+  ],
+  "seo_pages": [
+    "Australian Physiotherapy Clinic Automation Compliance",
+    "Cliniko Privacy Act Compliance Setup Guide",
+    "Psychology Clinic Recall Automation & Privacy Law in Australia",
+    "Medicare Claiming Automation & Health Records Compliance",
+    "Allied Health Intake Automation & Privacy Requirements",
+    "Australian OT Clinic Automation Compliance Checklist"
+  ],
+  "disclaimer": "This website is an information and reference tool for clinic automation and privacy compliance — not legal advice. For privacy law, professional conduct codes, and software liability, always defer to Australia's Privacy Act, your profession's code of conduct, official guidelines, and licensed legal advisors.",
+  "lang": "en"
+}
